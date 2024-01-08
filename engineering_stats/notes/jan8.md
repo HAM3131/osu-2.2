@@ -35,6 +35,14 @@ What is the population, sample, and variable in this situation?
 
 ### Population Parameters and Sample Statistics
 We use a `sample statistic` to estimate a `population parameter`.
- - 
+ - `Sample Statistic`: Numbers that describe a sample.
+ - `Population Parameter`: Numbers that describe a population.
+ 
+Population Parameters | Sample Statistics
+--- | ---
+Population mean = mu | Sample mean = x-bar
+Population standard deviation = sigma | Sample standard deviation = s
+Population proportion = P | Sample proportion = p-hat
+Correlation coefficient = rho_xy | Sample correlation coefficien = r_xy
 
 fin.
