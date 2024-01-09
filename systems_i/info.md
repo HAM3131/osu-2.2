@@ -1,4 +1,4 @@
-# Systems I
+# Systems I - CSE2421
 
 This class requires a lot of coursework to be done on the [Pearson Mastering software](https://session.masteringengineering.com/myct/mastering#/). Using username `manning.545@osu.edu` and password `1313Mah@`. It is recommended apparently to access mostly by clicking the `Access Pearson` link on Carmen.
 
