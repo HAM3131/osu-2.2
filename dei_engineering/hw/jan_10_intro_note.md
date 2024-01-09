@@ -13,3 +13,9 @@ I got here by being extremely good at high school and test taking. I got so luck
  - What do you hope to learn? -> I want to learn about the kinds of rhetoric which are useful for getting a grant. It sounds like a very useful skill and could apply to me at some point.
  - What do you want to bring to the class? -> I want to bring an open mind an hopefully contribute a good amount to group discussions. In high school english classes were never my favorites but I think I want to approach it with a different attitude this semester and have a good time.
  - What skills do you want to work on? -> I want to work on my writing skills (obviously). Specifically, I think my fundamental writing is very strong. I am very competent when it comes to grammar and spelling, but I want to improve the way I structure my writing to be more engaging and 'powerful'.
+
+## Course Themes Intitial Reaction
+The course driving question are all interesting to me, but ones which resonate the most are about how identifying accurate, credible information online allows us to function better as citizens, and what engineering problems or products affect society. I think these hold personal interest for me because they are applicable to me, and reflect what I have seen in the world. When I hear 'citizenship,' 'diversity,' 'equity,' 'inclusion,' and 'justice' I think of powerful ideals that are great in concept, but elusive in the world. And I hope that one of the things this class can do is make it easier for me to implement these ideals in my life.
+
+## Optional content
+I got a new puppy last semester!! It's really exciting and he is already getting much bigger. He's the same breed as my previous dog, who just passed last year, so he will probably end up the same size at around 100lbs.
