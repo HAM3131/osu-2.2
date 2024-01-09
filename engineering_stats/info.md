@@ -1,4 +1,4 @@
-# Engineering Stats - 3470
+# Engineering Stats - STAT3470.01
 
 The course has it's homework and textbook through carmenbooks. There is a Cengage account involved. I created a new account with email `manning.545@osu.edu` and password `Wdtpntbsl?3131C`.
 
