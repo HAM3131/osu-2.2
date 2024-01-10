@@ -46,5 +46,33 @@ Because either A or A' must occur:
 `Disjoint` - Two events are disjoint if their intersection is the null set.
 
 ## Probability
+The objective of probability is to assign a number P(A) to each event A representing the proportion of times that the event would occur under the same conditions.
 
+`Long-run Relative Frequency` - The proportion of times an event occurs if you repeated the experiment occurs if you repeated the experiment an infinite number of times.  
 
+Probability assignments must follow some axioms.
+ - For any event A, 0 <= P(A) <= 1
+ - P(*S*) = 1
+    - conversely, P(null set/phi) = 0
+ - For infinite disjoint events A_1, A_2, A_3, etc. P(A_1 or A_2 or A_3 or ...) = sum from i=n to infinity of A_i
+
+### Example
+Color | Brown | Red | Yellow | Green | Orange | Tan
+--- | --- | --- | --- | --- | --- | ---
+Probability | 0.3 | 0.2 | 0.2| 0.1 | 0.1 | ?
+What is the probability that the outcome is Tan?
+```
+S = {B, R, Y, G, O, T}
+A = {B, R, Y, G, O}
+A' = {T}
+P(A) = P(B) + P(R) + P(Y) + P(G) + P(O) = 0.3 + 0.2 + 0.2 + 0.1 + 0.1 = 0.9
+P(A') = 1 - P(A) = 1 - 0.9 = 0.1 = P(T)
+ANSWER : 0.1
+```
+---
+### Equally Likely Outcomes
+In an experiment where all of the outcomes have the same chance to occur, these are called `equally likely outcomes`.
+
+### More Probability Rules
+ - `Complement Rule` - For any event A, P(A) + P(A') = 1
+ - ``
