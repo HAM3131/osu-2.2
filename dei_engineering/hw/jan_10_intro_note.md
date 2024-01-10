@@ -19,3 +19,7 @@ The course driving question are all interesting to me, but ones which resonate t
 
 ## Optional content
 I got a new puppy last semester!! It's really exciting and he is already getting much bigger. He's the same breed as my previous dog, who just passed last year, so he will probably end up the same size at around 100lbs.
+
+
+
+###### ADD A PHOTO
