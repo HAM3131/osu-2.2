@@ -27,3 +27,22 @@ All concepts should include the following basic principles:
 
 ## Sustainability Definitions, Historycal Context, and Frameworks
 
+- There are many definitions for sustainable, some are lacking
+
+## What is Sustainability
+
+- Sustainability as a policy concept originated in the 1987 Brundtland Report.
+    - Concerned with the tension between the aspirations of mankind and the limitations imposed by nature
+    - "development that meets the needs of the present without compromising the ability of future generations to meet their own needs" 
+- It has since been reinterpreted as encompassing three dimensions (social, economic, and environmental)
+- This has only obscured the contradictions between these objectives
+- The definition should return to the focus on the well-being of future generations and the irreplaceable natural resources
+- In addition two the three pillars, a distinction has also been made between "strong" and "weak" sustainability
+- The idea of three pillars evolved from the business idea of the `Triple Bottom Line`
+    - The interests of business do not reflect those of humanity
+- Because the social, economic, and environmental pillars receive equal weight and the social and economic ones both pertain to the present while the environmental applies to the future, this view violates the principals of the Brundtland Report
+    - The principal that current development should not come at the cost of future generations
+- This paper proposes a model weighing well-being and the environment as the two dimensions
+- `Weak Sustainability` - The idea that future generations should inherit a stock of natural and man-made resources no less than the previous generation
+- `Strong Sustainability` - The idea that future generations should inherit a stock of natural resources no less than the previous generation
+- There has been debate between these ideas, but the philosophy should be dependent on the resource

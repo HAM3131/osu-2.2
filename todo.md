@@ -10,7 +10,7 @@ First Week Intro Note Revision | Jan 10
 Intro Sustainability Class 2 Readings | Jan 11
 ~~Introduction to MasteringEngineering: Computer Science~~ | Jan 12
 Collaborative Class Wiki Contribution 1 | Jan 12
-Systems Lab I | TBD
+Systems Lab I | Jan 16
 Systems Required Reading | TBD
 ~~Read Systems I Syllabus~~ | 
 ~~Read Engineering Stats Syllabus~~ |
