@@ -1,9 +1,27 @@
 # TODO
 
 <details>
-<summary>Week 1 - Jan 7-14</summary>
+<summary>
+
+## Week 2 - Jan 15-22
+
+</summary>
 <br>
+
+Assignment | Due Date
+--- | ---
+DEI Engineering Week 2 Readings | Jan 18
+
+</details>
+
+
+<details>
+<summary>
+
 ## Week 1 - Jan 7-14
+
+</summary>
+<br>
 
 Assignment | Due Date
 --- | ---
@@ -20,11 +38,5 @@ Systems Required Reading | TBD
 ~~Read Engineering Stats Syllabus~~ |
 ~~Read DEI Engineering Syllabus~~ |
 ~~Read Intro Sustainability Syllabus~~ |
-</details>
 
-
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
 </details>
