@@ -33,6 +33,8 @@ Assignment | Due Date
 ~~Introduction to MasteringEngineering: Computer Science~~ | Jan 12
 Collaborative Class Wiki Contribution 1 | Jan 15
 Systems Lab I | Jan 16
+Sustainability Assignment | Jan 16
+Sustainability Reading Response 1 | Jan 16
 Systems Required Reading | TBD
 ~~Read Systems I Syllabus~~ | 
 ~~Read Engineering Stats Syllabus~~ |
