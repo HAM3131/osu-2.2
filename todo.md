@@ -11,6 +11,7 @@
 Assignment | Due Date
 --- | ---
 DEI Engineering Week 2 Readings | Jan 18
+Stats Homework 1 | Jan 19
 
 </details>
 
