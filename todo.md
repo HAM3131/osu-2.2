@@ -10,6 +10,7 @@
 
 Assignment | Due Date
 --- | ---
+Systems Chapter 1 through section 1.3 | Jan 16
 DEI Engineering Week 2 Readings | Jan 18
 Stats Homework 1 | Jan 19
 

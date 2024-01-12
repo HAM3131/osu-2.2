@@ -1,4 +1,4 @@
-# C
+# Lecture 2
 
 C is procedural, not object oriented.  
 It is fully compiled to machine code.  
