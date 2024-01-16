@@ -10,7 +10,10 @@
 
 Assignment | Due Date
 --- | ---
-Systems Chapter 1 through section 1.3 | Jan 16
+~~Systems Chapter 1 through section 1.3~~ | Jan 16
+~~Systems Required Reading~~ | Jan 16
+Sustainability Assignment | Jan 16
+Sustainability Reading Response 1 | Jan 16
 Sustainability Lab Prep | Jan 16
 DEI Engineering Week 2 Readings | Jan 18
 Stats Homework 1 | Jan 19
@@ -34,11 +37,8 @@ Assignment | Due Date
 ~~Intro Sustainability Class 2 Readings~~ | Jan 11
 ~~C Language Basics~~ | Jan 11
 ~~Introduction to MasteringEngineering: Computer Science~~ | Jan 12
-Collaborative Class Wiki Contribution 1 | Jan 15
+~~Collaborative Class Wiki Contribution~~ 1 | Jan 15
 ~~Systems Lab I~~ | Jan 16
-Sustainability Assignment | Jan 16
-Sustainability Reading Response 1 | Jan 16
-Systems Required Reading | TBD
 ~~Read Systems I Syllabus~~ | 
 ~~Read Engineering Stats Syllabus~~ |
 ~~Read DEI Engineering Syllabus~~ |
