@@ -12,9 +12,8 @@ Assignment | Due Date
 --- | ---
 ~~Systems Chapter 1 through section 1.3~~ | Jan 16
 ~~Systems Required Reading~~ | Jan 16
-Sustainability Reading Response 1 | Jan 16
 Sustainability Lab Prep | Jan 16
-DEI Engineering Week 2 Readings | Jan 18
+DEI Engineering Week 2 Discusstion Prep | Jan 18
 Stats Homework 1 | Jan 19
 Sustainability HW 1 | Jan 21
 
