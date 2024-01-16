@@ -12,6 +12,8 @@ Assignment | Due Date
 --- | ---
 ~~Systems Chapter 1 through section 1.3~~ | Jan 16
 ~~Systems Required Reading~~ | Jan 16
+~~Class/Scope/Linkage Quiz~~ | Jan 16
+~~Sustainability Class Reading~~ | Jan 16
 Sustainability Lab Prep | Jan 16
 DEI Engineering Week 2 Discusstion Prep | Jan 18
 Stats Homework 1 | Jan 19
