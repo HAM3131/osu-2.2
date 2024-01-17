@@ -1,0 +1,9 @@
+# Lab 1 Prep
+
+## Summary of Article's Main Point
+
+The study of catastrophes throughout history has focused more on failure than success, leading to a lean in the direction of doomism. Overwhelmingly study of climate disasters in the past focus, naturally, on the disastrous situations that came about when people were unable to avert the crisis. Focus on the ancient Maya and Easter Island are examples of this. However, their stories are often misrepresented and a more complete look at history shows numerous examples of ingenuity and adaptability from affected populations. Examples of resilience. Following this biased representation of history, doomists see failure in the past and ask why we would be different, without seeing the response of the Romans to the Late Antique Ice Age or 15th century Mojave settlements counter to a hostile environment.
+
+## Prompt Response
+
+I lean more towards the optimistic side for a few reasons. First, the examples of historical responses to climate change which were successful are all encouraging and reflect ingenuity and adaptability of people which is only magnified by modern technology. With the largest population than at any time in human history and a faster rate of innovation than ever before. These are characteristics which leave us with no shortage of ideas that can be used to combat, avert, or adapt to the changing climate. Unfortunately, the biggest issue I see from my life experience is a resistance to implementing these ideas. But, I believe that younger generations are much more educated on the subject and likely to support the necessary actions. As power shifts from those who hold office today to the next generation, every year sentiment grows towards solving the crisis. I don't know if this will happen without significant damage happening first, and surely much has already been done. But, I ultimately believe we will prevail.
