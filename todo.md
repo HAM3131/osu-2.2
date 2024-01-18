@@ -3,7 +3,16 @@
 <details>
 <summary>
 
-## Week 2 - Jan 15-22
+## Week 3 - Jan 22-28
+
+</summary>
+<br>
+</details>
+
+<details>
+<summary>
+
+## Week 2 - Jan 15-21
 
 </summary>
 <br>
@@ -15,9 +24,9 @@ Assignment | Due Date
 ~~Class/Scope/Linkage Quiz~~ | Jan 16
 ~~Sustainability Class Reading~~ | Jan 16
 ~~Sustainability Lab Prep~~ | Jan 16
-DEI Engineering Week 2 Discusstion Prep | Jan 18
+~~DEI Engineering Week 2 Discusstion Prep~~ | Jan 18
 Stats Homework 1 | Jan 19
-Sustainability HW 1 | Jan 21
+Sustainability HW 1 | Jan 22
 
 </details>
 
