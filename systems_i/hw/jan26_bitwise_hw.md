@@ -25,7 +25,7 @@ The right most column of the chart has all the same bits of the `binary x` but r
 
 [5 points] Given the relationship you described in Question 2, how would you get an analogous result when shifting x one position to the left rather than to the right? What value would you use for y?
 
-For `y` I would use 0x80. You could use the exact same process for this as we traced in the table for the first question.
+For `y` I would use 0x80. You could use the exact same process for this as we traced in the table for the first question, only doing our bit shifts in the opposite direction (x << 1 and (x & y) >> 7)
 
 [5 points] If you wanted to shift 2 positions left or right, how could you change y to easily do this?
 
