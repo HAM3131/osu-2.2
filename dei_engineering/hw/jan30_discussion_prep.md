@@ -15,7 +15,7 @@ A new economic map composed of six sectors:
  - Government economy
  - Natural economy
 
-Anothe framing has fourteen indicators of the "State of Society" incorporating both economic health and human well-being:
+Another framing has fourteen indicators of the "State of Society" incorporating both economic health and human well-being:
  - Poverty
  - Health
  - Education
